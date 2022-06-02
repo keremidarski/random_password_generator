@@ -2,6 +2,8 @@
 
 # Random Password Generator
 
+WORK IN PROGRESS!
+
 This is the starting point of the random password generator project. Currently its purpose is to generate passwords between 4 and 16 characters, following the best practices of including special characters, upper-case letters and numbers in a randomly fashion.
 
 ## How to Install and Run the Project
